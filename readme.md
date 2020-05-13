@@ -1,4 +1,7 @@
 FastDFS-Client 1.27.2(2020-2-11)
+
+基于springBoot2.0使用  ----20200513
+
 ---
 
 This is a java client lib for [FastDFS](https://github.com/happyfish100/fastdfs).
